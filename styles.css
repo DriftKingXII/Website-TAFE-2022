@@ -1,0 +1,23 @@
+body {
+    background-color: aliceblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.logo {
+    width:80px;
+    margin: auto;
+    display: block;
+}
+.navigation {
+    background-color: black;
+    text-align: center;
+}
+.navigation a{
+    color: whitesmoke;
+    text-decoration: none
+}
+.banner {
+    height: 800px;
+    background-color:lightskyblue;
+    background-image: url("images/diego-catto-xl-TxnzkkYo-unsplash.jpg");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
