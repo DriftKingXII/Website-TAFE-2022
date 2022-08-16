@@ -1,6 +1,6 @@
 body {
     background-color: aliceblue;
-    font-family:"Times New Roman", serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 .logo {
     width:80px;
@@ -13,11 +13,22 @@ body {
 }
 .navigation a{
     color: whitesmoke;
-    text-decoration: none
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Righteous' ,cursive;
 }
 .banner {
     height: 800px;
     background-color:lightskyblue;
     background-image: url("images/diego-catto-xl-TxnzkkYo-unsplash.jpg");
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Caveat', cursive;
+    color: grey;
+    font-size: xx-large;
+    text-align: center;
+}
+footer a{
+    height: 100;
+    width: 100;
+    font-size: 20pt;
+    
 }
