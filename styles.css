@@ -26,9 +26,12 @@ body {
     font-size: xx-large;
     text-align: center;
 }
-footer a{
-    height: 100;
-    width: 100;
-    font-size: 20pt;
-    
+.social {
+    /* font-size: 24px; */
+    font-size: 2rem;
+}
+
+.social a {
+    color: black;
+    text-decoration: none;
 }
